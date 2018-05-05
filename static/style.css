@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+}
+
+div>div {
+    width: 20%;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+div.activities {
+    overflow: scroll;
+    width: 90%;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+    display: inline-block;
+    padding-top: 20px;
+    text-align: left;
+}
+p.earn{
+    color: green;
+    text-align: left;
+}
+p.loose{
+    color:red;
+    text-align: left;
+}
+h3{
+    text-align: left;
+    margin-left:4em;
+}
